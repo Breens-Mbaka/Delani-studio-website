@@ -27,12 +27,31 @@ p {
     font-size: 1.2rem;
 }
 
+
 .about{
     line-height: 1.8rem;
     padding: 20px;
 }
-.about h2 {
+
+.overlaying-text {
+    position: relative;
     text-align: center;
+    color: white;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.services img{
+    width: 1200px;
+    height: 600px;
+}
+.sub-headers {
     margin-top: 15px;
     padding: 20px;
+    text-align: center;
 }
