@@ -6,9 +6,8 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [Behaviour driven devlopment](#Behaviour driven devlopment)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -29,7 +28,7 @@ cd delani-studio-website
 
 ````
 
-## Behaviour Driven Development
+## Behaviour driven development
 List of features in the web app
 * An about section of what Delani studio does
 * Services offered
