@@ -20,4 +20,6 @@ img {
 .row p {
     margin-left: 250px;
     margin-top: 80px;
+    font-family: 'Neucha', cursive;
+    font-size: 1.4rem;
 }
