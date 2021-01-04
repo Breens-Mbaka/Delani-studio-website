@@ -94,3 +94,24 @@ span {
 #description-service3{
     display: none;
 }
+
+.container .row .col-3 {
+    padding: 10px;
+}
+
+.container .row .col-3 img{
+    width: 300px;
+    height: 150px;
+}
+
+.container .col2 {
+    padding-left: 40px;
+}
+
+.container .col3 {
+    padding-left: 40px;
+}
+
+.container .col4 {
+    padding-left: 40px;
+}
