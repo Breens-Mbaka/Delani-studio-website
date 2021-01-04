@@ -2,7 +2,22 @@ nav .navbar-brand {
     font-size: 26px;
     font-family: 'Holtwood One SC', serif;
 }
+
 img {
-    width: auto;
-    height: auto;
+    height: 450px;
+    width: 600px;
+}
+
+.row h1{
+    margin-left: 250px;
+    margin-top: 30px;
+    color: rgb(83, 81, 81);
+    line-height: 3.0rem;
+    font-size: 45px;
+    font-family: 'Ultra', serif;
+}
+
+.row p {
+    margin-left: 250px;
+    margin-top: 80px;
 }
