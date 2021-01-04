@@ -122,11 +122,25 @@ span {
     color: white;
 }
 
+#news {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 .background-text2 {
     position: relative;
     text-align: center;
     color: white;
 }
+
+#photography {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 .background-text3 {
     position: relative;
@@ -134,11 +148,25 @@ span {
     color: white;
 }
 
+#security {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 .background-text4 {
     position: relative;
     text-align: center;
     color: white;
 }
+
+#grocery {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 .background-text5 {
     position: relative;
@@ -146,11 +174,25 @@ span {
     color: white;
 }
 
+#music {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 .background-text6 {
     position: relative;
     text-align: center;
     color: white;
 }
+
+#ecommerce {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 .background-text7 {
     position: relative;
@@ -158,8 +200,22 @@ span {
     color: white;
 }
 
+#design {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
 .background-text8 {
     position: relative;
     text-align: center;
     color: white;
 }
+
+#restaurant {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
