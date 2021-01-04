@@ -23,4 +23,4 @@ $(document).ready(function() {
         $("#image3").show()
         $("#description-service3").hide()
     })
-})
+})Grocery Store
