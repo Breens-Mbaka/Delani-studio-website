@@ -64,3 +64,9 @@ p {
 .services p {
     line-height: 2.1rem;
 }
+
+.container .col-4 img {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+}
