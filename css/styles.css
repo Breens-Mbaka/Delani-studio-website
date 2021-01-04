@@ -17,9 +17,22 @@ img {
     font-family: 'Ultra', serif;
 }
 
-.row p {
-    margin-left: 250px;
-    margin-top: 80px;
+p {
     font-family: 'Neucha', cursive;
     font-size: 1.4rem;
+}
+.row p {
+    margin-left: 250px;
+    margin-top: 70px;
+    font-size: 1.2rem;
+}
+
+.about{
+    line-height: 1.8rem;
+    padding: 20px;
+}
+.about h2 {
+    text-align: center;
+    margin-top: 15px;
+    padding: 20px;
 }
