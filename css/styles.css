@@ -67,6 +67,9 @@ p {
 
 .container .col-4 {
     text-align: center;
+    line-height: normal;
+    display: inline-block;
+    font-size: 13px;
 }
 
 .container .col-4 img {
@@ -78,4 +81,16 @@ p {
 span {
     font-size: 15px;
     font-family: 'Neucha', cursive;
+}
+
+#description-service1 {
+    display: none;
+}
+
+#description-service2{
+    display: none;
+}
+
+#description-service3{
+    display: none;
 }
