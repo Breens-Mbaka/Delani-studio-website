@@ -29,8 +29,9 @@ p {
 
 
 .about{
-    line-height: 1.8rem;
+    line-height: 2.1rem;
     padding: 20px;
+    text-align: center;
 }
 
 .overlaying-text {
@@ -48,10 +49,18 @@ p {
 
 .services img{
     width: 1200px;
-    height: 600px;
+    height: 500px;
+    margin-top: 70px;
 }
 .sub-headers {
     margin-top: 15px;
     padding: 20px;
     text-align: center;
+}
+.services h2 {
+    margin-top: 250px;
+    padding: 15px;
+}
+.services p {
+    line-height: 2.1rem;
 }
