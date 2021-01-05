@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## Project description
-Delani Studio is a software development agency that aims at developing and designing products for businesses that aim at solving a problem to the market and impact the world.
+Delani Studio is a software development agency that aims at developing and designing products for small businesses. Our aim is solving problems in the market.
 
 ## Screenshots
 //screenshots will go here
