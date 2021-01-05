@@ -260,6 +260,7 @@ span {
 .input {
     opacity: 0.1;
     width: 250px;
+    font-family: 'Neucha', cursive;
 }
 
 textarea {
@@ -267,8 +268,20 @@ textarea {
     height: 200px;
     opacity: 0.1;
     border: none;
+    font-family: 'Neucha', cursive;
 }
 
 .button {
     opacity: 0.1;
+    font-family: 'Neucha', cursive;
+}
+
+.social {
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
 }
