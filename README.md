@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Behaviour driven devlopment](#Behaviour driven devlopment)
+* [BDD] (#bdd)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -25,10 +25,9 @@ Delani Studio is a software development agency that aims at developing and desig
 ````
 git clone https://github.com/Breens-Thomas/Delani-studio-website.git
 cd delani-studio-website
-
 ````
 
-## Behaviour driven development
+## BDD
 List of features in the web app
 * An about section of what Delani studio does
 * Services offered
