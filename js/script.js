@@ -23,4 +23,32 @@ $(document).ready(function() {
         $("#image3").show()
         $("#description-service3").hide()
     })
-})Grocery Store
+
+    //background when hovered
+    
+        $("#img1").hover(function(){
+            $("#news").toggle()
+        });
+        $("#img2").hover(function(){
+            $("#photography").toggle()
+        });
+        $("#img3").hover(function(){
+            $("#security").toggle()
+        });
+        $("#img4").hover(function(){
+            $("#grocery").toggle()
+        });
+        $("#img5").hover(function(){
+            $("#music").toggle()
+        });
+        $("#img6").hover(function(){
+            $
+            $("#ecommerce").toggle()
+        });
+        $("#img7").hover(function(){
+            $("#design").toggle()
+        });
+        $("#img8").hover(function(){
+            $("#restaurant").toggle()
+        });
+})

@@ -3,7 +3,7 @@ nav .navbar-brand {
     font-family: 'Holtwood One SC', serif;
 }
 
-img {
+#jumbotron {
     height: 450px;
     width: 600px;
 }
@@ -47,9 +47,9 @@ p {
     transform: translate(-50%, -50%);
   }
 
-.services img{
+.background-image {
     width: 1200px;
-    height: 500px;
+    height: 600px;
     margin-top: 70px;
 }
 .sub-headers {
@@ -128,6 +128,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text2 {
@@ -142,6 +144,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text3 {
@@ -156,6 +160,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text4 {
@@ -170,6 +176,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text5 {
@@ -184,6 +192,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text6 {
@@ -198,6 +208,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text7 {
@@ -212,6 +224,8 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
 
 .background-text8 {
@@ -226,4 +240,35 @@ span {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none;
+    color: black;
+    font-size: 1.4rem;
   }
+
+.contacts-text {
+    position: relative;
+    text-align: center;
+    color:white;
+}
+
+.form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.input {
+    opacity: 0.1;
+    width: 250px;
+}
+
+textarea {
+    width: 650px;
+    height: 200px;
+    opacity: 0.1;
+    border: none;
+}
+
+.button {
+    opacity: 0.1;
+}
