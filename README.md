@@ -1,16 +1,16 @@
 # Project Name
-> Delani Studio is a software development agency that aims at developing and designing products for businesses that aim at solving a problem to the market and impact the world.
+> Delani Studio
 
 ## Table of contents
-* [General info](#general-info)
+* [Project description](#project-description)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [BDD] (#bdd)
+* [Behaviour driven development](#behaviour-driven-development)
 * [Status](#status)
 * [Contact](#contact)
 
-## General info
+## Project description
 Delani Studio is a software development agency that aims at developing and designing products for businesses that aim at solving a problem to the market and impact the world.
 
 ## Screenshots
@@ -27,8 +27,7 @@ git clone https://github.com/Breens-Thomas/Delani-studio-website.git
 cd delani-studio-website
 ````
 
-## BDD
-List of features in the web app
+## Behaviour driven development
 * An about section of what Delani studio does
 * Services offered
 * A showcase of the projects done in the past
