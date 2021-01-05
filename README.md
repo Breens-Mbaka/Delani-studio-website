@@ -40,3 +40,6 @@ Project is: _in progress_
 
 ## Contact
 Created by [@Breens Mbaka](https://www.linkedin.com/in/breens-mbaka-b447781b9/) - feel free to contact me!
+
+## Copyrigtht
+2020 (C) [MIT](LICENSE.txt)
