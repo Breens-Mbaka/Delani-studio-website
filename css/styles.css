@@ -116,6 +116,10 @@ span {
     padding-left: 40px;
 }
 
+.portfolio-background {
+    opacity: 0.35;
+}
+
 .background-text1 {
     position: relative;
     text-align: center;

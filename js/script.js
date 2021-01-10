@@ -24,7 +24,7 @@ $(document).ready(function() {
         $("#description-service3").hide()
     })
 
-    //background when hovered
+    //text when hovered
     
         $("#img1").hover(function(){
             $("#news").toggle()
@@ -50,6 +50,12 @@ $(document).ready(function() {
         });
         $("#img8").hover(function(){
             $("#restaurant").toggle()
+        });
+
+        //portfolio background when hovered
+
+        $(".portfolio-image").hover(function () {
+            $(this).toggleClass("portfolio-background");
         });
 
         //Button submitted
