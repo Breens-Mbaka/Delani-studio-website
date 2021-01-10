@@ -51,4 +51,33 @@ $(document).ready(function() {
         $("#img8").hover(function(){
             $("#restaurant").toggle()
         });
+
+        //Button submitted
+        $("#embedded-subscribe").click(function() {
+            var name = document.getElementById("FNAME").value;
+            var email = document.getElementById("EMAIL").value;
+
+            //if user didn't fill the reuired field error message
+            if(name === "" || email === "") {
+                swal(
+                    {
+                        title: "Error!",
+                        text: "Please fill in the required fields!",
+                        icon: "error",
+                        button: "OK!",
+                    }
+                );
+            }
+            //if user filled out all the fields return succesful message
+            else {
+                swal(
+                    {
+                        title: "Success!",
+                        text: `${name} your message has been recieved!`,
+                        icon: "success",
+                        button: "OK!",
+                    }
+                );
+            }
+        })
 })
