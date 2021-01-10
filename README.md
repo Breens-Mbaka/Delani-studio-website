@@ -36,7 +36,7 @@ Link to live [site](https://breens-thomas.github.io/Delani-studio-website/)
 * A contact footer that collects the users email
 
 ## Status
-Project is: _in progress_
+Project is: _finished_it will still be maintained and improved
 
 ## Contact
 Created by [@Breens Mbaka](https://www.linkedin.com/in/breens-mbaka-b447781b9/) - feel free to contact me!
