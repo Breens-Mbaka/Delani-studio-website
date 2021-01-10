@@ -62,9 +62,10 @@ $(document).ready(function() {
         $("#embedded-subscribe").click(function() {
             var name = document.getElementById("FNAME").value;
             var email = document.getElementById("EMAIL").value;
+            var message = document.getElementById("subject").value;
 
-            //if user didn't fill the reuired field error message
-            if(name === "" || email === "") {
+            //if user didn't fill the required field error message
+            if(name === "" || email === "" || message ==="") {
                 swal(
                     {
                         title: "Error!",
