@@ -14,7 +14,7 @@
 Delani Studio is a software development agency that aims at developing and designing products for small businesses. Our aim is solving problems in the market.
 
 ## Screenshots
-//screenshots will go here
+! [Screenshots of website](images/screencapture-breens-thomas-github-io-Delani-studio-website-2021-01-10-20_42_36.png)
 
 ## Technologies
 * HTML5/CSS/Bootstrap
