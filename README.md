@@ -27,7 +27,7 @@ git clone https://github.com/Breens-Thomas/Delani-studio-website.git
 cd delani-studio-website
 ````
 ## Live link
-Link to live [site](https://breens-thomas.github.io/Delani-studio-website/)
+Link to live [site](https://breens-mbaka.github.io/Delani-studio-website/)
 
 ## Behaviour driven development
 * An about section of what Delani studio does
